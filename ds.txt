@@ -1,0 +1,12 @@
+queues
+mergesort
+stacks
+quicksort
+23 trees
+MST
+segment tree
+binary index trees
+union find
+LCA
+trie
+

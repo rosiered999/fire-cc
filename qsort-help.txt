@@ -1,0 +1,6 @@
+int cmpfunc(const void* a, const void* b)
+{
+        return (*(int*)a = *(int*)b);
+}
+
+    qsort(a,60, sizeof(int),cmpfunc);
